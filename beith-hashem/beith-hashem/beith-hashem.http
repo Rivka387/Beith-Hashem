@@ -1,0 +1,6 @@
+@beith_hashem_HostAddress = http://localhost:5172
+
+GET {{beith_hashem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
